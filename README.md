@@ -5,11 +5,11 @@ It’s styled using an external CSS file and includes a basic animation effect o
 
 ## Features
 
--**Input Fields**: Name, Email, Subject, and Message.
--**Validation**: Email field and required fields are validated using HTML5 attributes.
-Accessibility: Semantic HTML ensures better usability for screen readers.
-Interactivity: Subtle animation on page load.
-Customization: Easily customizable for other use cases.\\
+1.Input Fields: Name, Email, Subject, and Message.
+2.Validation: Email field and required fields are validated using HTML5 attributes.
+3.Accessibility: Semantic HTML ensures better usability for screen readers.
+4.Interactivity: Subtle animation on page load.
+5.Customization: Easily customizable for other use cases.
 
 
 
